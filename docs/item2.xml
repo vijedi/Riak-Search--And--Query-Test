@@ -1,0 +1,7 @@
+<add>
+    <doc>
+        <field name="id">2</field>
+        <field name="topping_text">blueberry</field>
+        <field name="base_text">waffle</field>
+    </doc>
+</add>
